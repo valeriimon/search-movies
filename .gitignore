@@ -1,0 +1,6 @@
+.idea
+.vscode
+
+server/.venv
+server/__pycache__
+server/*.db
