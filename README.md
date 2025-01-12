@@ -2,15 +2,15 @@
 
 ## Set environment variables
 ```bash
-  ## .env
-  DATABASE_URL=<DATABASE_URL>
-  TMDB_API_KEY=<TMDB_API_KEY>
+## .env
+DATABASE_URL=<DATABASE_URL>
+TMDB_API_KEY=<TMDB_API_KEY>
 ```
 
 ## Run project via docker
 
 ```bash
-  docker-compose up
+docker-compose up
 ```
 
 ## Run project locally
